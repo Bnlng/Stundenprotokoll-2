@@ -19,7 +19,7 @@ Projektfindugsphase
 
 <h2 id="2">15.12.2021</h1>
 
-Projektfindungsphase
+Projektfindungsphase und erstellen dieses Repositorys
 
 <h2 id="3">21.12.2021</h1>
 
