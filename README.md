@@ -85,7 +85,7 @@ Projektfindungsphase und erstellen dieses Repositorys
 
 
 <h2 id="3">Dienstag, 21.12.2021</h1>
-Secret Hitler
+Heute wurden die Bewertungsbögen für die Projekte des letzten Halbjahres ausgeteilt. Während der restlichen doppelstunde wurde Secret Hitler gespielt.
 
 <h2 id="4">Mittwoch, 22.12.2021</h1>
 Entfall
