@@ -1,7 +1,6 @@
 <h1>Stundenprotokolle 2. Halbjahr</h1>
 
 <table>
-  
    <tr>
     <td><a>Dienstag</a></td>
     <td><a>Mittwoch</a></td>
@@ -76,29 +75,100 @@
     <td><a href="#27">29.03.2022</a></td>
     <td><a href="#28">30.03.2022</a></td>
   </tr>
-  
 </table>
 
-<h2 id="1">14.12.2021</h1>
-
+<h2 id="1">Dienstag, 14.12.2021</h1>
 Projektfindugsphase
 
-<h2 id="2">15.12.2021</h1>
-
+<h2 id="2">Mittwoch, 15.12.2021</h1>
 Projektfindungsphase und erstellen dieses Repositorys
 
-<h2 id="3">21.12.2021</h1>
 
+<h2 id="3">Dienstag, 21.12.2021</h1>
 Secret Hitler
 
-<h2 id="4">22.12.2021</h1>
-
+<h2 id="4">Mittwoch, 22.12.2021</h1>
 Entfall
 
-<h2 id="5">11.01.2022</h1>
 
+<h2 id="5">Dienstag, 11.01.2022</h1>
 Projektfindugsphase
 
-<h2 id="6">12.01.2022</h1>
-
+<h2 id="6">Mittwoch, 12.01.2022</h1>
 Projektfindungsphase
+
+
+<h2 id="7">Dienstag, 11.01.2022</h1>
+Projektfindugsphase
+
+<h2 id="8">Mittwoch, 12.01.2022</h1>
+Projektfindungsphase
+
+
+<h2 id="9">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="10">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="11">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="12">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="13">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="14">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="15">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="16">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="17">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="18">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="19">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="20">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="21">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="22">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="23">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="24">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="25">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="26">Mittwoch, 12.01.2022</h1>
+
+
+
+<h2 id="27">Dienstag, 11.01.2022</h1>
+
+
+<h2 id="28">Mittwoch, 12.01.2022</h1>
