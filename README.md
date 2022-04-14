@@ -1,4 +1,4 @@
-<h1>Stundenprotokolle 2. Halbjahr</h1>
+<h1>Stundenprotokoll 2. Halbjahr</h1>
 
 <table>
    <tr>
