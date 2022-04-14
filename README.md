@@ -78,7 +78,7 @@
 </table>
 
 <h2 id="1">Dienstag, 14.12.2021</h1>
-Projektfindugsphase
+An diesem Tag fängt die zweite Projektphase an. Wir haben die Zeit genutzt um zu besprechen wie es Weiter gehen soll, zentral war dabei die Frage, ob wir das alte Projekt weiter führen wollen oder ein neues Anfangen. Am Ende haben wir uns dazu entschieden, ein neues Projekt anzufangen, da wir beide nicht mehr so viel interesse am alten Hatten.
 
 <h2 id="2">Mittwoch, 15.12.2021</h1>
 Projektfindungsphase und erstellen dieses Repositorys
@@ -88,7 +88,7 @@ Projektfindungsphase und erstellen dieses Repositorys
 Heute wurden die Bewertungsbögen für die Projekte des letzten Halbjahres ausgeteilt. Während der restlichen doppelstunde wurde Secret Hitler gespielt.
 
 <h2 id="4">Mittwoch, 22.12.2021</h1>
-Entfall
+Diese stunde ist Ausgefallen.
 
 
 <h2 id="5">Dienstag, 11.01.2022</h1>
