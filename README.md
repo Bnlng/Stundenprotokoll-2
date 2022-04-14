@@ -81,7 +81,7 @@
 An diesem Tag fängt die zweite Projektphase an. Wir haben die Zeit genutzt um zu besprechen wie es Weiter gehen soll, zentral war dabei die Frage, ob wir das alte Projekt weiter führen wollen oder ein neues Anfangen. Am Ende haben wir uns dazu entschieden, ein neues Projekt anzufangen, da wir beide nicht mehr so viel interesse am alten Hatten.
 
 <h2 id="2">Mittwoch, 15.12.2021</h1>
-Projektfindungsphase und erstellen dieses Repositorys
+Heute haben wir mit der Projektfindung angefangen. Wir haben erste eigene Ideen besprochen und nach anderen Projektideen im Internet gesucht. Außerdem haben wir dieses Repository erstellt.
 
 
 <h2 id="3">Dienstag, 21.12.2021</h1>
