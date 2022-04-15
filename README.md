@@ -76,6 +76,11 @@
     <td><a href="#28">30.03.2022</a></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><a href="#29">Osterferien</a></td>
+  </tr>
+</table>
 
 <h2 id="1">Dienstag, 14.12.2021</h1>
 
@@ -106,11 +111,11 @@ Aus der Recherchearbeit der letzten Stunde entstand die Idee, einen fahrenden Ro
 
 <h2 id="7">Dienstag, 18.01.2022</h1>
 
-Als wir uns projekte von anderen Schülern aus Vorherigen Jahren angeschaut haben ist uns das Projekt [Image Recognition](https://gitlab.com/JKGER/imagerecognition/-/blob/master/Dokumentation/Projektseite.md) ins Auge gefallen
+Als wir uns projekte von anderen Schülern aus Vorherigen Jahren angeschaut haben ist uns das Projekt [Image Recognition](https://gitlab.com/JKGER/imagerecognition/-/blob/master/Dokumentation/Projektseite.md) ins Auge gefallen. Das brachte uns auf die Idee das ganze in die Realität zu bringen, etwa mit einem Fehrngesteuerten Auto, dass von selbst lenkt und so einer Weg oder einer Straße folgen kann. Wir haben uns darüber informiert, wie man so etwas umsetzen könnte und haben uns letzendlich dagegen entschieden.
 
 <h2 id="8">Mittwoch, 19.01.2022</h1>
-Projektfindungsphase
 
+In der letzten Stunde sind wir auf die Open Source software [ArduPilot](https://github.com/ArduPilot/ardupilot) gestoßen. Mit ArduPilot können Autopiloten für jegliche art von Fahrzeugen realiesiert werden. Das hat uns auf die Idee gebracht, vielleicht etwas mit einem Modellflugzeug zu machen. Wir haben die möglichkeiten, die es gibt weiter erkundet.
 
 <h2 id="9">Dienstag, 25.01.2022</h1>
 
@@ -180,3 +185,7 @@ Die Heutige Doppelstunde wurde Vollständig zur Vorbereitung auf das Physikabitu
 
 <h2 id="28">Mittwoch, 30.03.2022</h1>
 Heute wurde das Physikabitur geschrieben, weshalb die Stunde ausfiel.
+
+
+<h2 id="29">Osterferien</h1>
+
