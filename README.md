@@ -169,6 +169,6 @@ Diese Doppelstunde musste aufgrund eines Klassenausflugs Ausfallen. Aufgrund der
 
 
 <h2 id="27">Dienstag, 29.03.2022</h1>
-
+Die Heutige Doppelstunde wurde Vollständig zur Vorbereitung auf das Physikabitur genutzt.
 
 <h2 id="28">Mittwoch, 30.03.2022</h1>
