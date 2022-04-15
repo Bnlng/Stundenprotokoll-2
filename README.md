@@ -115,9 +115,10 @@ Als wir uns Projekte von anderen Schülern aus Vorherigen Jahren angeschaut habe
 
 <h2 id="8">Mittwoch, 19.01.2022</h1>
 
-In der letzten Stunde sind wir auf die Open Source software [ArduPilot](https://github.com/ArduPilot/ardupilot) gestoßen. Mit ArduPilot können Autopiloten für jegliche art von Fahrzeugen realiesiert werden. Das hat uns auf die Idee gebracht, vielleicht etwas mit einem Modellflugzeug zu machen. Wir haben diese Möglichkeit weiter erkundet.
+In der letzten Stunde sind wir auf die Open Source software [ArduPilot](https://github.com/ArduPilot/ardupilot) gestoßen. Mit ArduPilot können Autopiloten für jegliche art von Fahrzeugen realiesiert werden. Das hat uns auf die Idee gebracht, vielleicht etwas mit einem Modellflugzeug zu machen. Wir haben diese Möglichkeit weiter erkundet und beretis einige konkrete technische Überlegungen und Zeichnungen angefertigt.
 
 <h2 id="9">Dienstag, 25.01.2022</h1>
+
 
 
 
