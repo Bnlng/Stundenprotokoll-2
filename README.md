@@ -78,28 +78,35 @@
 </table>
 
 <h2 id="1">Dienstag, 14.12.2021</h1>
+
 An diesem Tag fängt die zweite Projektphase an. Wir haben die Zeit genutzt um zu besprechen wie es Weiter gehen soll, zentral war dabei die Frage, ob wir das alte Projekt weiter führen wollen oder ein neues Anfangen. Am Ende haben wir uns dazu entschieden, ein neues Projekt anzufangen, da wir beide nicht mehr so viel interesse am alten Hatten.
 
 <h2 id="2">Mittwoch, 15.12.2021</h1>
+
 Heute haben wir mit der Projektfindung angefangen. Wir haben erste eigene Ideen besprochen und nach anderen Projektideen im Internet gesucht. Außerdem haben wir dieses Repository erstellt.
 
 
 <h2 id="3">Dienstag, 21.12.2021</h1>
+
 Heute wurden die Bewertungsbögen für die Projekte des letzten Halbjahres ausgeteilt. Während der restlichen doppelstunde wurde Secret Hitler gespielt.
 
 <h2 id="4">Mittwoch, 22.12.2021</h1>
+
 Diese stunde ist Ausgefallen.
 
 
 <h2 id="5">Dienstag, 11.01.2022</h1>
+
 Heute ging es mit der Suche nach einem Projekt weiter. Wir wollen wahrschienlich in Richtung Robotik etwas machen. Deshalb haben wir im Internet Recherchiert, was in der Richtung schon von anderen gemacht wurde, um eine Idee dafür zu bekommen was möglich ist.
 
 <h2 id="6">Mittwoch, 12.01.2022</h1>
+
 Aus der Recherchearbeit der letzten Stunde entstand die Idee, einen fahrenden Roboter mit einem Greifarm zu bauen, der zum Beispiel dazu verwendet werden kann dinge zu holen ohne selbst aufstehen zu müssen. Als erweiterung könnte man dann noch eine Automatisierung einbauen die automatisch nach gegenständen sucht und sie zu einem Bringt. Eine möglichkeit das zu realisieren währe einen Barcode auf gegenstände zu kleben und dann mit einer Kamera auf dem roboter nach Barcodes scannen, die Grundlegende Erkennungssoftware dazu gäbe es schon. Allerdings währe es eine große Herausforderung das zu bewegungen des Roboters umzurechnen und dann auch noch das Greifen möglich zu machen. Daher haben wir diese Idee als viel zu Umfangreich für ein Halbjahr eingeschätzt und werden sie nicht weiter Verfolgen.
 
 
 <h2 id="7">Dienstag, 18.01.2022</h1>
-Als wir uns projekte von anderen Schülern aus Vorherigen Jahren angeschaut haben ist uns das Projekt [Image Recognition](https://gitlab.com/JKGER/imagerecognition/-/blob/master/Dokumentation/Projektseite.md)
+
+Als wir uns projekte von anderen Schülern aus Vorherigen Jahren angeschaut haben ist uns das Projekt [Image Recognition](https://gitlab.com/JKGER/imagerecognition/-/blob/master/Dokumentation/Projektseite.md) ins Auge gefallen
 
 <h2 id="8">Mittwoch, 19.01.2022</h1>
 Projektfindungsphase
