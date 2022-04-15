@@ -148,7 +148,7 @@ Projektfindungsphase
 
 
 <h2 id="21">Dienstag, 08.03.2022</h1>
-Diese Doppelstunde musste aufgrund eines Klassenausflugs Ausfallen. Aufgrund der langen dauer des Ausfluges hatten wir keine Zeit mehr um zu hause weiter zu arbeiten.
+Diese Doppelstunde musste aufgrund eines Klassenausflugs leider Ausfallen. Wegen der langen dauer des Ausfluges hatten wir keine Zeit mehr, um zu hause weiter zu arbeiten.
 
 <h2 id="22">Mittwoch, 09.02.2022</h1>
 
