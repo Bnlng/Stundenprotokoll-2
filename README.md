@@ -92,14 +92,14 @@ Diese stunde ist Ausgefallen.
 
 
 <h2 id="5">Dienstag, 11.01.2022</h1>
-Projektfindugsphase
+Heute ging es mit der Suche nach einem Projekt weiter. Wir wollen wahrschienlich in Richtung Robotik etwas machen. Deshalb haben wir im Internet Recherchiert, was in der Richtung schon von anderen gemacht wurde, um eine Idee dafür zu bekommen was möglich ist.
 
 <h2 id="6">Mittwoch, 12.01.2022</h1>
-Projektfindungsphase
+Aus der Recherchearbeit der letzten Stunde entstand die Idee, einen fahrenden Roboter mit einem Greifarm zu bauen, der zum Beispiel dazu verwendet werden kann dinge zu holen ohne selbst aufstehen zu müssen. Als erweiterung könnte man dann noch eine Automatisierung einbauen die automatisch nach gegenständen sucht und sie zu einem Bringt. Eine möglichkeit das zu realisieren währe einen Barcode auf gegenstände zu kleben und dann mit einer Kamera auf dem roboter nach Barcodes scannen, die Grundlegende Erkennungssoftware dazu gäbe es schon. Allerdings währe es eine große Herausforderung das zu bewegungen des Roboters umzurechnen und dann auch noch das Greifen möglich zu machen. Daher haben wir diese Idee als viel zu Umfangreich für ein Halbjahr eingeschätzt und werden sie nicht weiter Verfolgen.
 
 
 <h2 id="7">Dienstag, 18.01.2022</h1>
-Projektfindugsphase
+Als wir uns projekte von anderen Schülern aus Vorherigen Jahren angeschaut haben ist uns das Projekt [Image Recognition](https://gitlab.com/JKGER/imagerecognition/-/blob/master/Dokumentation/Projektseite.md)
 
 <h2 id="8">Mittwoch, 19.01.2022</h1>
 Projektfindungsphase
