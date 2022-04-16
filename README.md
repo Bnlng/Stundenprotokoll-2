@@ -90,7 +90,6 @@ An diesem Tag fängt die zweite Projektphase an. Wir haben die Zeit genutzt um z
 
 Heute haben wir mit der Projektfindung angefangen. Wir haben erste eigene Ideen besprochen und nach anderen Projektideen im Internet gesucht. Außerdem haben wir dieses Repository erstellt.
 
-
 <h2 id="3">Dienstag, 21.12.2021</h1>
 
 Heute wurden die Bewertungsbögen für die Projekte des letzten Halbjahres ausgeteilt. Während der restlichen doppelstunde wurde Secret Hitler gespielt.
@@ -99,7 +98,6 @@ Heute wurden die Bewertungsbögen für die Projekte des letzten Halbjahres ausge
 
 Diese stunde ist Ausgefallen.
 
-
 <h2 id="5">Dienstag, 11.01.2022</h1>
 
 Heute ging es mit der Suche nach einem Projekt weiter. Wir wollen wahrschienlich in Richtung Robotik etwas machen. Deshalb haben wir im Internet recherchiert, was in der Richtung schon von anderen gemacht wurde, um eine Idee dafür zu bekommen was möglich ist.
@@ -107,7 +105,6 @@ Heute ging es mit der Suche nach einem Projekt weiter. Wir wollen wahrschienlich
 <h2 id="6">Mittwoch, 12.01.2022</h1>
 
 Aus der Recherchearbeit der letzten Stunde entstand die Idee, einen fahrenden Roboter mit einem Greifarm zu bauen, der zum Beispiel dazu verwendet werden kann Dinge zu holen ohne selbst aufstehen zu müssen. Als Erweiterung könnte man dann noch eine Automatisierung einbauen die automatisch nach gegenständen sucht und sie zu einem Bringt. Eine möglichkeit das zu realisieren währe einen Barcode auf gegenstände zu kleben und dann mit einer Kamera auf dem roboter nach Barcodes scannen, die Grundlegende Erkennungssoftware dazu gäbe es schon. Allerdings währe es eine große Herausforderung das zu bewegungen des Roboters umzurechnen und dann auch noch das Greifen möglich zu machen. Daher haben wir diese Idee als viel zu Umfangreich für ein Halbjahr eingeschätzt und werden sie nicht weiter Verfolgen.
-
 
 <h2 id="7">Dienstag, 18.01.2022</h1>
 
@@ -119,15 +116,14 @@ In der letzten Stunde sind wir auf die Open Source software [ArduPilot](https://
 
 <h2 id="9">Dienstag, 25.01.2022</h1>
 
-
-
-
+Heute haben wir die Überlegungen der letzten Stunde weitergeführt. Eine konkkrete Idee dabei war es, ein Flugzeug zu Bauen, dass den Bodeneffekt ausnutzt und damit einen etwa 2,5 - 3 mal höheren Wirkungsgrad erreicht als ein herrkömmliches Flugzeug. Der Bodeneffekt tritt auf, wenn ein Flugzeug dich über dem Boden fliegt. Zwischen Flügel und Boden staut sich Luft an, was zu einem Druckanstieg führt. Der Druckanstieg unter dem Flügel führt zu auftrieb, ohne den Wiederstand wesentlich zu erhöhen. Die Herausforderung bei einem solchen Flugzeug ist es einen konstand niedrigen Abstand zum Boden einzuhalten. Um das ganze zu realisieren könnte man mit einem LIDAR- oder Ultraschallsensor dauerhaft den Abstand zum Boden messen und bei einem falschen abstand korrektur Manöver nach oben oder unten durchführen. Die dafür benötigten  
 
 <h2 id="10">Mittwoch, 26.01.2022</h1>
 
 
 
 <h2 id="11">Dienstag, 01.02.2022</h1>
+
 
 
 <h2 id="12">Mittwoch, 02.02.2022</h1>
@@ -137,11 +133,13 @@ In der letzten Stunde sind wir auf die Open Source software [ArduPilot](https://
 <h2 id="13">Dienstag, 08.02.2022</h1>
 
 
+
 <h2 id="14">Mittwoch, 09.02.2022</h1>
 
 
 
 <h2 id="15">Dienstag, 15.02.2022</h1>
+
 
 
 <h2 id="16">Mittwoch, 16.02.2022</h1>
@@ -151,6 +149,7 @@ In der letzten Stunde sind wir auf die Open Source software [ArduPilot](https://
 <h2 id="17">Dienstag, 22.02.2022</h1>
 
 
+
 <h2 id="18">Mittwoch, 23.02.2022</h1>
 
 
@@ -158,11 +157,13 @@ In der letzten Stunde sind wir auf die Open Source software [ArduPilot](https://
 <h2 id="19">Dienstag, 01.03.2022</h1>
 
 
+
 <h2 id="20">Mittwoch, 02.03.2022</h1>
 
 
 
 <h2 id="21">Dienstag, 08.03.2022</h1>
+
 Diese Doppelstunde musste aufgrund eines Klassenausflugs leider Ausfallen. Wegen der langen dauer des Ausfluges hatten wir keine Zeit mehr, um zu hause weiter zu arbeiten.
 
 <h2 id="22">Mittwoch, 09.02.2022</h1>
@@ -172,6 +173,7 @@ Diese Doppelstunde musste aufgrund eines Klassenausflugs leider Ausfallen. Wegen
 <h2 id="23">Dienstag, 15.03.2022</h1>
 
 
+
 <h2 id="24">Mittwoch, 16.03.2022</h1>
 
 
@@ -179,16 +181,18 @@ Diese Doppelstunde musste aufgrund eines Klassenausflugs leider Ausfallen. Wegen
 <h2 id="25">Dienstag, 22.03.2022</h1>
 
 
+
 <h2 id="26">Mittwoch, 23.03.2022</h1>
 
 
 
 <h2 id="27">Dienstag, 29.03.2022</h1>
+
 Die Heutige Doppelstunde wurde Vollständig zur Vorbereitung auf das Physikabitur genutzt.
 
 <h2 id="28">Mittwoch, 30.03.2022</h1>
-Heute wurde das Physikabitur geschrieben, weshalb die Stunde ausfiel.
 
+Heute wurde das Physikabitur geschrieben, weshalb die Stunde ausfiel.
 
 <h2 id="29">Osterferien</h1>
 
