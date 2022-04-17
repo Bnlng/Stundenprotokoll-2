@@ -128,7 +128,7 @@ In der heutigen Stunde haben wir uns genauer darüber informiert, wie man das Pr
 
 <h2 id="12">Mittwoch, 02.02.2022</h1>
 
-Heute haben wir in Onlineshops nach den fehlenden elektronischen Bauteile gesucht. 
+Nachdem wir in der letzten stunde herausgefunden hatten, dass wir für das neue Projekt ein Gyroskop brauchen haben wir uns heute über Arduino kompatible Gyroskope informiert und sind dabei auf den MPU6050 gestoßen. Beim MPU6050 handelt es sich um einen 3-Achsen Beschleunigungssensor und Gyroskop und zusätzlichem Temperatursensor. Davon brauchen tun wir nur das Gyroskop.
 
 <h2 id="13">Dienstag, 08.02.2022</h1>
 
