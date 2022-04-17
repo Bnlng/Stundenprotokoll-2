@@ -120,15 +120,15 @@ Heute haben wir die Überlegungen der letzten Stunde weitergeführt. Eine konkkr
 
 <h2 id="10">Mittwoch, 26.01.2022</h1>
 
-Idee des Selbstbalancierenden Roboters.
+Heute haben wollten wir mit der Projektsuche wiede in eine etwas andere Richtung gehen. Dabei sind wir auf Selbstbalancierende Roboter gestoßen, die Zwei Räder haben und wenn sie drohen umzukippen in die Kipprichtung fahren und sich so selbst aufrecht halten.
 
 <h2 id="11">Dienstag, 01.02.2022</h1>
 
-Genauere recherche zur umsetzung
+Heute haben wir uns genauer darüber informiert, wie man das Projekt umsetzen könnte. Dabei fanden wir heraus, dass wir viele Teile des Vorherigen Projektes, wie die Motoren wiederverwendet können. Wir haben präzisere Pläne zum Bau und erste technische Zeichnungen angefertigt.
 
 <h2 id="12">Mittwoch, 02.02.2022</h1>
 
-Pläne, um das mit den Teilen des alten Projektes umzusetzen. zusätzliche Bauteile raussuchen
+Heute haben wir in Onlineshops nach den fehlenden elektronischen Bauteile gesucht. 
 
 <h2 id="13">Dienstag, 08.02.2022</h1>
 
