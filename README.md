@@ -120,39 +120,39 @@ Heute haben wir die Überlegungen der letzten Stunde weitergeführt. Eine konkkr
 
 <h2 id="10">Mittwoch, 26.01.2022</h1>
 
-
+Idee des Selbstbalancierenden Roboters.
 
 <h2 id="11">Dienstag, 01.02.2022</h1>
 
-
+Genauere recherche zur umsetzung
 
 <h2 id="12">Mittwoch, 02.02.2022</h1>
 
-
+Pläne, um das mit den Teilen des alten Projektes umzusetzen. zusätzliche Bauteile raussuchen
 
 <h2 id="13">Dienstag, 08.02.2022</h1>
 
-
+Martin bringt große motoren mit. Pläne den roboter in groß zu bauen
 
 <h2 id="14">Mittwoch, 09.02.2022</h1>
 
-
+weitere planung
 
 <h2 id="15">Dienstag, 15.02.2022</h1>
 
-
+Dafür benötigte bauteile raussuchen (MPU6050, h-bridge usw...)
 
 <h2 id="16">Mittwoch, 16.02.2022</h1>
 
-
+Dafür benötigte bauteile raussuchen und zuhause bestellen, riemen
 
 <h2 id="17">Dienstag, 22.02.2022</h1>
 
-
+MPU 6050 in gang bringen
 
 <h2 id="18">Mittwoch, 23.02.2022</h1>
 
-
+MPU 6050 in gang bringen
 
 <h2 id="19">Dienstag, 01.03.2022</h1>
 
