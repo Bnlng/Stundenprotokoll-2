@@ -124,7 +124,7 @@ Heute haben wollten wir mit der Projektsuche wiede in eine etwas andere Richtung
 
 <h2 id="11">Dienstag, 01.02.2022</h1>
 
-Heute haben wir uns genauer darüber informiert, wie man das Projekt umsetzen könnte. Dabei fanden wir heraus, dass wir viele Teile des Vorherigen Projektes, wie die Motoren wiederverwendet können. Wir haben präzisere Pläne zum Bau und erste technische Zeichnungen angefertigt.
+In der heutigen Stunde haben wir uns genauer darüber informiert, wie man das Projekt umsetzen könnte. Dabei fanden wir heraus, dass wir viele Teile des Vorherigen Projektes, wie die Motoren wiederverwendet können. Lediglich ein Gyroskop, mit dem die Neigung des Roboters bestimmt wird muss zusätzlich bestellt werden. Wir haben präzisere Pläne zum Bau entwickelt und erste technische Zeichnungen angefertigt.
 
 <h2 id="12">Mittwoch, 02.02.2022</h1>
 
