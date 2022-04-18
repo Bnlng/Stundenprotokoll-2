@@ -152,7 +152,7 @@ Nach der letzten Stunde wurden das Gyroskop und die Riemen bestellt. Die Teile s
 
 <h2 id="18">Mittwoch, 23.02.2022</h1>
 
-MPU 6050 in gang bringen
+Heute haben wir den Aufbau mit dem Gyroskop erneut aufgebaut und noch ein paar letzte tests durchgeführt. Außerdem angefangen uns genau zu überlegen wie das Grundgerüst des Roboters aussehen soll und welche Materialien und Fügeferfahren benutzt werden können. Dabei kam heraus, dass wir als Material für den Roboter Baustahl benutzen und die einzelnen Elemente aneinander Schweißen. Da das nicht in der Schule erledigt werden kann müssen wir einiges zu Hause machen und können in den kommenden Stunden fast nur noch Planungsarbeit erledigen oder die Projektseite und dieses Stundenprotokoll voranbringen.
 
 <h2 id="19">Dienstag, 01.03.2022</h1>
 
