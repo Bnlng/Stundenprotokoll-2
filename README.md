@@ -212,12 +212,12 @@ Diese Doppelstunde musste aufgrund eines Klassenausflugs leider Ausfallen. Wegen
 Da die Theoretische Planung der Hardware nun weitesgehen abgeschlossen ist, konnten wir im Unterricht nicht mehr allzuviel machen. Wir haben uns also nach der Schule zuhause in der Werkstatt getroffen und begonnen den Roboter zu bauen.
 
 <h2 id="23">Dienstag, 15.03.2022</h1>
-Am Nachmittag weiterer Bau der Hardware in der Werkstatt.
+Am Nachmittag: weiterer Bau der Hardware in der Werkstatt.
 
 
 <h2 id="24">Mittwoch, 16.03.2022</h1>
 
-
+Auch heute haben wir das meißte am Nachmittag in der heimischen Werkstatt gemacht, da die aktuellen Herausforderungen die uns das Projekt stellt, nicht in der Schule zu bewältigen sind.
 
 <h2 id="25">Dienstag, 22.03.2022</h1>
 
