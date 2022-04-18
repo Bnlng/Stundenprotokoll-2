@@ -221,11 +221,12 @@ Auch heute haben wir das meißte am Nachmittag in der heimischen Werkstatt gemac
 
 <h2 id="25">Dienstag, 22.03.2022</h1>
 
+Heute haben wir angefangen uns erste Gedanken zur Software zu machen und den Code zu schreiben.
 
 
 <h2 id="26">Mittwoch, 23.03.2022</h1>
 
-Heute haben wir angefangen uns erste Gedanken zur Software zu machen. Unser ersten Ansatz ist im Folgendne zu sehen. Die Geschwindigkeit der Motoren steigt linear mit zunehmendem Neigungswingel des Roboters.
+Heute haben wir an die letzte Stunde angeknüpft und einen ersten Testcode vervollständigt. Unser ersten Ansatz ist im Folgendne zu sehen. Die Geschwindigkeit der Motoren steigt linear mit zunehmendem Neigungswingel des Roboters. Diesen konnten wir jedoch noch nicht testen, da die Hardware noch weit davon enfernt ist fertig zu sein.
 
 ```c
 #include <Wire.h>
