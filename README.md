@@ -227,7 +227,7 @@ Auch heute haben wir das meißte am Nachmittag in der heimischen Werkstatt gemac
 
 Heute haben wir angefangen uns erste Gedanken zur Software zu machen. Unser ersten Ansatz ist im Folgendne zu sehen. Die Geschwindigkeit der Motoren steigt linear mit zunehmendem Neigungswingel des Roboters.
 
-``c
+```c
 #include <Wire.h>
 #include <MPU6050_light.h>
 
