@@ -150,7 +150,45 @@ Heute haben wir angefangen erste grobe Skizzen auf Papier anzufertigen. Außerde
 <h2 id="17">Dienstag, 22.02.2022</h1>
 
 Da nun die endlich das Gyruskop-Modul MPU6050 eingetroffen ist, haben wir uns in der heutigen Stunde mit dem Auslesen der Daten befasst.
-Wir haben den alles verkabelt und versucht die  Winkel auszulesen. Aus unerklärlichen Gründen hat es zunächst nicht funktioniert. Nachdem einigen herumprobieren hat es dann schlieslich irgendwann funktioniert. Wir haben den rest der Stunde mit dem MPU 6050 experimentiert und verschieden Libaries getestet. Entschieden haben wir uns für die MPU6050_light libary von rfetick. Diese ermöglicht ein einfaches auslesen der Winkelveränderung für alle frei Achsen, relativ zu der Position in welcher das Modul war, als es gestartet wurde.
+Wir haben den alles verkabelt und versucht die  Winkel auszulesen. Aus unerklärlichen Gründen hat es zunächst nicht funktioniert. Nachdem einigen herumprobieren hat es dann schlieslich irgendwann funktioniert. Wir haben den rest der Stunde mit dem MPU 6050 experimentiert und verschieden Libaries getestet. Entschieden haben wir uns für die MPU6050_light libary von rfetick. Diese ermöglicht ein einfaches auslesen der Winkelveränderung für alle frei Achsen, relativ zu der Position in welcher das Modul war, als es gestartet wurde. Den Code hierfür ist im Folgenden zu sehen:
+
+```c
+#include "Wire.h"
+#include <MPU6050_light.h>
+
+MPU6050 mpu(Wire);
+unsigned long timer = 0;
+
+void setup() {
+  Serial.begin(9600);
+  Wire.begin();
+  
+  byte status = mpu.begin();
+  Serial.print(F("MPU6050 status: "));
+  Serial.println(status);
+  while(status!=0){ } // stop everything if could not connect to MPU6050
+  
+  Serial.println(F("Calculating offsets, do not move MPU6050"));
+  delay(1000);
+  // mpu.upsideDownMounting = true; // uncomment this line if the MPU6050 is mounted upside-down
+  mpu.calcOffsets(); // gyro and accelero
+  Serial.println("Done!\n");
+}
+
+void loop() {
+  mpu.update();
+  
+  if((millis()-timer)>10){ // print data every 10ms
+	Serial.print("X : ");
+	Serial.print(mpu.getAngleX());
+	Serial.print("\tY : ");
+	Serial.print(mpu.getAngleY());
+	Serial.print("\tZ : ");
+	Serial.println(mpu.getAngleZ());
+	timer = millis();  
+  }
+}
+```
 
 <h2 id="18">Mittwoch, 23.02.2022</h1>
 
