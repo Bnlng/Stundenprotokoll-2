@@ -132,19 +132,19 @@ Nachdem wir in der letzten stunde herausgefunden hatten, dass wir für das neue 
 
 <h2 id="13">Dienstag, 08.02.2022</h1>
 
-Martin bringt große motoren mit. Pläne den roboter in groß zu bauen
+Martin bringt große motoren mit. Aufgrund dessen entstand die Idee den Roboter statt mit den kleinen Getriebemotoren mit den Großen Motoren zu bauen. Da die großen Motoren deutlich höhere Leistung haben, brauchen wir einen einen neuen Driver. Nach  
 
 <h2 id="14">Mittwoch, 09.02.2022</h1>
 
-weitere planung
+Heute haben wir mit der Planung des Aufbaus des Roboters begonnen. Eine wichtige Fragestellung dabei ist es, ob wir die Motoren direkt mit den Rädern verbunden sind, oder ob die Motoren weiter oben am Roboter angebracht und die Kraft dann mittels Riemen und Riemenscheiben auf die Räder übertragen. Der vorteil der der Version mit Riemen wäre es, dass man eine Übersetzung einbauen könnte, indem man an den Rädern eine deutlich größere Riemenscheibe verwendet und so ein größeres Drehmoment an den Rädern erreicht. Ein weiterer Vorteil daran währe es, dass einiges an Gewicht nach oben verlagert wird, wass die Kippbewegung des Roboters etwas träger machen wird wodurch die Blancierung einfacher wird. In dieser Stunde sind wir noch nicht zu einer Entgültigen entscheidung gekommen.
 
 <h2 id="15">Dienstag, 15.02.2022</h1>
 
-Dafür benötigte bauteile raussuchen (MPU6050, h-bridge usw...)
+In dieser Stunde wurde diskussion darüber ob Riemen verwendet werden sollen wieder aufgegriffen und mit dem entgültigen etschluss, dass sie verwendet werde abgeschlossen. Wir haben in verschiedenen Onlineshops nach Riemen und Riemenscheiben gesucht und beschlossen nur die Riemen zu bestellen und die Riemenscheiben mit dem 3D Drucker selbst anzufertigen, da diese recht teuer sind.
 
 <h2 id="16">Mittwoch, 16.02.2022</h1>
 
-Dafür benötigte bauteile raussuchen und zuhause bestellen, riemen
+Im anschluss an die letzte Stunde haben 
 
 <h2 id="17">Dienstag, 22.02.2022</h1>
 
