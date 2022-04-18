@@ -145,11 +145,11 @@ Das bestellen der Zahnriemen haben wir auf einen späterern Zeitpunkt verschoben
 
 <h2 id="16">Mittwoch, 16.02.2022</h1>
 
-Heute haben wir angefangen erste grobe Skizzen auf Papier anzufertigen. Außerdem haben wir uns Gedanken über die Bereifung unseres Roboters gemacht.
+Heute haben wir angefangen erste grobe Skizzen auf Papier anzufertigen. Außerdem haben wir uns Gedanken über die Bereifung unseres Roboters gemacht. Einer von uns hatte noch ein paar Vollgummi Reifen (ohne Felge) mit einem Außendurchmesser von 16,5cm. Wir entschieden uns dazu die Felgen später aus Kunststoff an der Drehbank anzufertigen. Dies wird es uns ermöglichen die Lagersitze für die Kugellager für unsere Bedürfnisse passgenau zu fertigen.
 
 <h2 id="17">Dienstag, 22.02.2022</h1>
 
-Nach der letzten Stunde wurden das Gyroskop und die Riemen bestellt. Die Teile sind noch rechzeitig vor dieser Stunde angekommen, sodass wir schon anfangen konnten mit dem MPU6050 zu arbeiten. Wir haben den alles verkabelt und versucht die  Winkel auszulesen. Aus unerklärlichen Gründen hat es zunächst nicht funktioniert. Nachdem einigen herumprobieren hat es dann schlieslich irgendwann funktioniert. Wir haben den rest der Stunde mit dem MPU 6050 experimentiert und verschieden Libaries getestet.
+ Wir haben den alles verkabelt und versucht die  Winkel auszulesen. Aus unerklärlichen Gründen hat es zunächst nicht funktioniert. Nachdem einigen herumprobieren hat es dann schlieslich irgendwann funktioniert. Wir haben den rest der Stunde mit dem MPU 6050 experimentiert und verschieden Libaries getestet.
 
 <h2 id="18">Mittwoch, 23.02.2022</h1>
 
