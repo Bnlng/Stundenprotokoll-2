@@ -140,15 +140,15 @@ Heute haben wir mit der Planung des Aufbaus des Roboters begonnen. Eine wichtige
 
 <h2 id="15">Dienstag, 15.02.2022</h1>
 
-In dieser Stunde wurde diskussion darüber ob Riemen verwendet werden sollen wieder aufgegriffen und mit dem entgültigen etschluss, dass sie verwendet werde abgeschlossen. Wir haben in verschiedenen Onlineshops nach Riemen und Riemenscheiben gesucht und beschlossen nur die Riemen zu bestellen und die Riemenscheiben mit dem 3D Drucker selbst anzufertigen, da diese recht teuer sind.
+In dieser Stunde wurde diskussion darüber ob Riemen verwendet werden sollen wieder aufgegriffen und mit dem entgültigen etschluss, dass sie verwendet werden abgeschlossen. Danach haben wir in verschiedenen Onlineshops nach Riemen und Riemenscheiben gesucht und beschlossen nur die Riemen zu bestellen und die Riemenscheiben mit dem 3D Drucker selbst anzufertigen, da diese recht teuer sind.
 
 <h2 id="16">Mittwoch, 16.02.2022</h1>
 
-Im anschluss an die letzte Stunde haben 
+Im anschluss an die letzte Stunde haben wir eruiert, wo wir die Riemen und den MPU6050 am besten bestellen können ohne unnötig viele versandkosten zahlen zu müssen. Zusätzlich haben wir uns schon einmal in Funktionsweise des MPU6050 Gyroskopes eingelesen. Dabei haben wir herausgefunden, wie das Gyroskop an den Arduino angeschlossen wird und welche Libaries es gibt und die Winkel auszulen.
 
 <h2 id="17">Dienstag, 22.02.2022</h1>
 
-MPU 6050 in gang bringen
+Nach der letzten Stunde wurden das Gyroskop und die Riemen bestellt. Die Teile sind noch rechzeitig vor dieser Stunde angekommen, sodass wir schon anfangen konnten mit dem MPU6050 zu arbeiten. Wir haben den alles verkabelt und versucht die  Winkel auszulesen. Aus unerklärlichen Gründen hat es zunächst nicht funktioniert. Nachdem einigen herumprobieren hat es dann schlieslich irgendwann funktioniert. Wir haben den rest der Stunde mit dem MPU 6050 experimentiert und verschieden Libaries getestet.
 
 <h2 id="18">Mittwoch, 23.02.2022</h1>
 
