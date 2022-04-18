@@ -149,7 +149,8 @@ Heute haben wir angefangen erste grobe Skizzen auf Papier anzufertigen. Außerde
 
 <h2 id="17">Dienstag, 22.02.2022</h1>
 
- Wir haben den alles verkabelt und versucht die  Winkel auszulesen. Aus unerklärlichen Gründen hat es zunächst nicht funktioniert. Nachdem einigen herumprobieren hat es dann schlieslich irgendwann funktioniert. Wir haben den rest der Stunde mit dem MPU 6050 experimentiert und verschieden Libaries getestet.
+Da nun die endlich das Gyruskop-Modul MPU6050 eingetroffen ist, haben wir uns in der heutigen Stunde mit dem Auslesen der Daten befasst.
+Wir haben den alles verkabelt und versucht die  Winkel auszulesen. Aus unerklärlichen Gründen hat es zunächst nicht funktioniert. Nachdem einigen herumprobieren hat es dann schlieslich irgendwann funktioniert. Wir haben den rest der Stunde mit dem MPU 6050 experimentiert und verschieden Libaries getestet. Entschieden haben wir uns für die MPU6050_light libary von rfetick. Diese ermöglicht ein einfaches auslesen der Winkelveränderung für alle frei Achsen, relativ zu der Position in welcher das Modul war, als es gestartet wurde.
 
 <h2 id="18">Mittwoch, 23.02.2022</h1>
 
