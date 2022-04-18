@@ -154,13 +154,14 @@ Wir haben den alles verkabelt und versucht die  Winkel auszulesen. Aus unerklär
 
 <h2 id="18">Mittwoch, 23.02.2022</h1>
 
-Heute haben wir den Aufbau mit dem Gyroskop erneut aufgebaut und noch ein paar letzte tests durchgeführt. Außerdem angefangen uns genau zu überlegen wie das Grundgerüst des Roboters aussehen soll und welche Materialien und Fügeferfahren benutzt werden können. Dabei kam heraus, dass wir als Material für den Roboter Baustahl benutzen und die einzelnen Elemente aneinander Schweißen. Da das nicht in der Schule erledigt werden kann müssen wir einiges zu Hause machen und können in den kommenden Stunden fast nur noch Planungsarbeit erledigen oder die Projektseite und dieses Stundenprotokoll voranbringen.
+Heute haben wir den Aufbau mit dem Gyroskop erneut aufgebaut und noch ein paar letzte tests durchgeführt. Außerdem haben wir am letzten Mittwoch angeknüpft, und uns weiter genauerere Gedanken zur Hardware gemacht. Nach der Schule haben wir dann Angefangen das CAD-Modell zu ersttellen.
 
 <h2 id="19">Dienstag, 01.03.2022</h1>
-
+Auf Basis des, zwar noch lange nicht fertigen, CAD-Modell wussten wir nun wie Lang die Zahnriemn sein müssten, und haben diese gemeinsam mit der 15 starken Achse und einigen Flachstählen bestellt. Der Rahmen des Roboters wird hauptsächlich aus Flachstahl aus normalem Baustahl gefertigt. Aluminium würde natürlich einiges an Gewicht sparen, jedoch ist es erstens deutlich teurer und zweitens haben wir keinen Zugriff auf ein WIG-Schweißgerät. Das WIG-Schweißverfahren ist unverzichtbar um Aluminium zu verschweißen. 
 
 
 <h2 id="20">Mittwoch, 02.03.2022</h1>
+Heute haben wir noch über einige Deteilfragen geredet, welche beim vervollständigen des CAD-Modelles aufgetreten sind.
 
 
 
