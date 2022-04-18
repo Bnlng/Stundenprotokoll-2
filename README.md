@@ -96,15 +96,15 @@ Heute wurden die Bewertungsbögen für die Projekte des letzten Halbjahres ausge
 
 <h2 id="4">Mittwoch, 22.12.2021</h1>
 
-Diese stunde ist Ausgefallen.
+Diese stunde ist leider Ausgefallen.
 
 <h2 id="5">Dienstag, 11.01.2022</h1>
 
-Heute ging es mit der Suche nach einem Projekt weiter. Wir wollen wahrschienlich in Richtung Robotik etwas machen. Deshalb haben wir im Internet recherchiert, was in der Richtung schon von anderen gemacht wurde, um eine Idee dafür zu bekommen was möglich ist.
+Heute ging es mit der Suche nach einer Projektidee weiter. Wir wollen wahrschienlich in Richtung Robotik gehen. Deshalb haben wir im Internet recherchiert, was in der Richtung schon von anderen gemacht wurde, um eine Idee dafür zu bekommen, was möglich ist.
 
 <h2 id="6">Mittwoch, 12.01.2022</h1>
 
-Aus der Recherchearbeit der letzten Stunde entstand die Idee, einen fahrenden Roboter mit einem Greifarm zu bauen, der zum Beispiel dazu verwendet werden kann Dinge zu holen ohne selbst aufstehen zu müssen. Als Erweiterung könnte man dann noch eine Automatisierung einbauen die automatisch nach gegenständen sucht und sie zu einem Bringt. Eine möglichkeit das zu realisieren währe einen Barcode auf gegenstände zu kleben und dann mit einer Kamera auf dem roboter nach Barcodes scannen, die Grundlegende Erkennungssoftware dazu gäbe es schon. Allerdings währe es eine große Herausforderung das zu bewegungen des Roboters umzurechnen und dann auch noch das Greifen möglich zu machen. Daher haben wir diese Idee als viel zu Umfangreich für ein Halbjahr eingeschätzt und werden sie nicht weiter Verfolgen.
+Aus der Recherchearbeit der letzten Stunde entstand die Idee, einen fahrenden Roboter mit einem Greifarm zu bauen, der zum Beispiel dazu verwendet werden kann Dinge zu holen, ohne selbst aufstehen zu müssen. Als Erweiterung könnte man dann noch eine Automatisierung einbauen die automatisch nach gegenständen sucht und sie zu einem Bringt. Eine möglichkeit dies zu realisieren währe einen Barcode auf die Gegenstände zu kleben und dann mit einer Kamera auf dem Roboter nach Barcodes scannen, die Grundlegende Erkennungssoftware dazu gäbe es schon. Allerdings währe es eine große Herausforderung dies zu bewegungen des Roboters umzurechnen und dann auch noch das Greifen möglich zu machen. Daher haben wir diese Idee als viel zu Umfangreich für ein Halbjahr eingeschätzt und werden sie nicht weiter Verfolgen.
 
 <h2 id="7">Dienstag, 18.01.2022</h1>
 
@@ -128,23 +128,24 @@ In der heutigen Stunde haben wir uns genauer darüber informiert, wie man das Pr
 
 <h2 id="12">Mittwoch, 02.02.2022</h1>
 
-Nachdem wir in der letzten stunde herausgefunden hatten, dass wir für das neue Projekt ein Gyroskop brauchen haben wir uns heute über Arduino kompatible Gyroskope informiert und sind dabei auf den MPU6050 gestoßen. Beim MPU6050 handelt es sich um einen 3-Achsen Beschleunigungssensor und Gyroskop und zusätzlichem Temperatursensor. Davon brauchen tun wir nur das Gyroskop.
+Nachdem wir in der letzten stunde herausgefunden hatten, dass wir für das neue Projekt ein Gyroskop brauchen haben wir uns heute über Arduino kompatible Gyroskope informiert und sind dabei auf den MPU6050 gestoßen. Beim MPU6050 handelt es sich um einen 3-Achsen Beschleunigungssensor und Gyroskop und zusätzlichem Temperatursensor. Letzteres Feature ist für dieses Projekt allerdings nicht relevant.
 
 <h2 id="13">Dienstag, 08.02.2022</h1>
+Einer von uns hatte noch zwei Baugleiche Gleichstrommoteroren zuhause rumliegen, welche einst vom Schrottplatz stammten. Einen dieser Motoren brachten wir mit zur Schule, um mittels eines Netzteils zu ermitteln wie viel Strom dieser Motor unter Last bei bestimmten Spannungen zieht. Auf Basis diser Ergebnisse, wussten wir nun in welcher Leistungsklasse die Motorcontroller liegen müssten. Nach einiger Internetrecherche stießen wir auf den BTS7960, einen leistungsstarken H-Brücken Treiber. Dieses Modell haben wir dann zusammen mit dem MPU6050 Modul noch am selben Tag bestellt.
 
-Martin bringt große motoren mit. Aufgrund dessen entstand die Idee den Roboter statt mit den kleinen Getriebemotoren mit den Großen Motoren zu bauen. Da die großen Motoren deutlich höhere Leistung haben, brauchen wir einen einen neuen Driver. Nach  
 
 <h2 id="14">Mittwoch, 09.02.2022</h1>
 
-Heute haben wir mit der Planung des Aufbaus des Roboters begonnen. Eine wichtige Fragestellung dabei ist es, ob wir die Motoren direkt mit den Rädern verbunden sind, oder ob die Motoren weiter oben am Roboter angebracht und die Kraft dann mittels Riemen und Riemenscheiben auf die Räder übertragen. Der vorteil der der Version mit Riemen wäre es, dass man eine Übersetzung einbauen könnte, indem man an den Rädern eine deutlich größere Riemenscheibe verwendet und so ein größeres Drehmoment an den Rädern erreicht. Ein weiterer Vorteil daran währe es, dass einiges an Gewicht nach oben verlagert wird, wass die Kippbewegung des Roboters etwas träger machen wird wodurch die Blancierung einfacher wird. In dieser Stunde sind wir noch nicht zu einer Entgültigen entscheidung gekommen.
+Heute haben wir mit der Planung des Aufbaus des Roboters begonnen. Eine wichtige Fragestellung dabei ist , ob die Motoren direkt mit den Rädern verbunden sind, oder ob die Motoren weiter oben am Roboter angebracht und die Kraft dann mittels Riemen und Riemenscheiben auf die Räder übertragen. Der vorteil der der Version mit Riemen wäre es, dass man eine Übersetzung einbauen könnte, indem man an den Rädern eine größere Riemenscheibe als am Motor verwendet und so ein größeres Drehmoment an den Rädern erreicht. Ein weiterer Vorteil daran wäre es, dass einiges an Gewicht nach oben verlagert wird, was die Kippbewegung des Roboters etwas träger machen wird, wodurch die Blancierung einfacher wird. In dieser Stunde sind wir noch nicht zu einer Entgültigen entscheidung gekommen.
 
 <h2 id="15">Dienstag, 15.02.2022</h1>
 
-In dieser Stunde wurde diskussion darüber ob Riemen verwendet werden sollen wieder aufgegriffen und mit dem entgültigen etschluss, dass sie verwendet werden abgeschlossen. Danach haben wir in verschiedenen Onlineshops nach Riemen und Riemenscheiben gesucht und beschlossen nur die Riemen zu bestellen und die Riemenscheiben mit dem 3D Drucker selbst anzufertigen, da diese recht teuer sind.
+In dieser Stunde wurde Diskussion darüber ob Riemen verwendet werden sollen wieder aufgegriffen und mit dem entgültigen Entschluss, dass sie verwendet werden abgeschlossen. Danach haben wir in verschiedenen Onlineshops nach Riemen und Riemenscheiben gesucht. Da uns die Handelsüblichen Riemenscheiben allerdings zu teuer waren, haben wir uns dazu entschlossen, dass wir diese 3D-Drucken werden, da dies nicht nur deutlich günstiger ist, sondern es zusätzlich ermöglicht die Montagelöcher direkt an der richtigen Stelle zu haben. Bei gekauften Riemenscheiben hätte wir diese erst mühsam an Motorachse und Räder anpassen müssen.
+Das bestellen der Zahnriemen haben wir auf einen späterern Zeitpunkt verschoben, da wir ohne genaue technische Zeichnungen noch garnicht wissen, wie lang die sein müssten.
 
 <h2 id="16">Mittwoch, 16.02.2022</h1>
 
-Im anschluss an die letzte Stunde haben wir eruiert, wo wir die Riemen und den MPU6050 am besten bestellen können ohne unnötig viele versandkosten zahlen zu müssen. Zusätzlich haben wir uns schon einmal in Funktionsweise des MPU6050 Gyroskopes eingelesen. Dabei haben wir herausgefunden, wie das Gyroskop an den Arduino angeschlossen wird und welche Libaries es gibt und die Winkel auszulen.
+Heute haben wir angefangen erste grobe Skizzen auf Papier anzufertigen. Außerdem haben wir uns Gedanken über die Bereifung unseres Roboters gemacht.
 
 <h2 id="17">Dienstag, 22.02.2022</h1>
 
