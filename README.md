@@ -300,3 +300,5 @@ Heute wurde das Physikabitur geschrieben, weshalb die Stunde ausfiel.
 
 <h2 id="29">Osterferien</h1>
 
+In den Osterferien haben wir das Projekt an die Zielgerade heran geführt. 
+
